@@ -3,8 +3,5 @@ Git is free wow software.
 wow
 wow
 ha
-<<<<<<< HEAD
 new  s1 s2 branch
-=======
-new  s1 s2 branch
->>>>>>> f1
+
